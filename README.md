@@ -2,7 +2,7 @@
 ```
 git clone https://github.com/zeronxdev/proxychain.git
 cd proxychain
-./configure
+./configure --prefix=/usr --sysconfdir=/etc
 make
 sudo make install
 sudo make install-config
