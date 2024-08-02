@@ -6,7 +6,7 @@ cd proxychain
 make
 sudo make install
 sudo make install-config
-sudo ln -s /usr/bin/proxychains4 /usr/bin/proxy
+sudo ln -s /usr/bin/proxychains4 /usr/bin/prx
 ```
 # Edit config
 ```
